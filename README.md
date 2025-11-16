@@ -17,7 +17,7 @@
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [About the Project](#about-the-project)
 - [How to Use](#how-to-use)
@@ -35,7 +35,7 @@ The tests validate the `firstName` field when creating a new user through an API
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 ### 1. Install dependencies
 
@@ -56,7 +56,7 @@ pytest -v
 ```
 ---
 
-## 🧪 What the Tests Check
+## What the Tests Check
 * Successful user creation (201)
 * Error responses (400) for:
 * Too short or too long names
@@ -69,7 +69,7 @@ pytest -v
 
 ---
  
-## 📁 Project Structure
+## Project Structure
 ```text
 api_stand_tests/
 │── README.md
@@ -81,7 +81,7 @@ api_stand_tests/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 * Python 3.14.0
 * Pytest for automated testing
 * Requests for API communication
@@ -90,7 +90,7 @@ api_stand_tests/
 
 ---
 
-## 👨‍💻 Author
+## Author
 Camilo — QA Engineer in Training
 This repository is part of my QA Engineering learning journey, where I practice building real automated API tests using Pytest and Python.
 
