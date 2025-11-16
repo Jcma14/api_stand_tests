@@ -72,11 +72,11 @@ pytest -v
 ## 📁 Project Structure
 ```kotlin
 api_stand_tests/
-│── data.py
-│── configuration.py
-│── sender_stand_request.py
-│── create_user_test.py
 │── README.md
+│── configuration.py
+│── create_user_test.py
+│── data.py
+│── sender_stand_request.py
 ```
 
 ---
@@ -102,7 +102,8 @@ If you want to connect:
   <a href="https://github.com/Jcma14">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/camilo-morales-qa//">
+  <br>
+    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/camilo-morales-qa//">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
