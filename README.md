@@ -91,7 +91,7 @@ api_stand_tests/
 ---
 
 ## Author
-Camilo — QA Engineer in Training
+Camilo Morales — QA Engineer in Training
 This repository is part of my QA Engineering learning journey, where I practice building real automated API tests using Pytest and Python.
 
 Learning API testing, automation, and software quality.
