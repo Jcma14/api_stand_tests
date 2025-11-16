@@ -39,19 +39,19 @@ The tests validate the `firstName` field when creating a new user through an API
 
 ### 1. Install dependencies
 
-```python
+```bash
 pip install pytest requests
 ```
 ### 2. Run all tests
-```python
+```bash
 pytest
 ```
 ### 3. Run a specific file
-```python
+```bash
 pytest test_create_user.py
 ```
 ### 4. Verbose mode
-```python
+```bash
 pytest -v
 ```
 ---
@@ -70,7 +70,7 @@ pytest -v
 ---
  
 ## 📁 Project Structure
-```kotlin
+```text
 api_stand_tests/
 │── README.md
 │── configuration.py
@@ -103,7 +103,7 @@ If you want to connect:
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <br>
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/camilo-morales-qa//">
+    <a href="https://www.linkedin.com/in/camilo-morales-qa//">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
